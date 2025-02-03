@@ -71,17 +71,18 @@ const MySkills = () =>{
                 </Heading>
 
                 <ParaText top ="2rem" bottom = "1.5rem">
-                AI Regulation Advocate: "And that´s why accountability is important. Bias doesn't just 
-                contribute to poverty experience but also suffers from real damages, especially in 
-                areas such as health monitoring or accessibility tools. They should be responsible for 
-                their algorithms," said an AI regulation advocate.
+                AI Regulation Advocate: I am a software engineering student at BCAS Campus, with a strong passion for 
+                exploring innovative technologies and applying them to real-world problems. Currently, I am working on 
+                various projects, including a Smart Water Tank system, network shortest path algorithms, and a sales data 
+                analysis application for Sampath Food City. 
                 </ParaText>
                 
                 <ParaText>
-                AI Regulation Advocate: "And that´s why accountability is important. Bias doesn't just 
-                contribute to poverty experience but also suffers from real damages, especially in 
-                areas such as health monitoring or accessibility tools. They should be responsible for 
-                their algorithms," said an AI regulation advocate.
+                Throughout my studies, I have embraced the principles of clean coding, SOLID development practices, and data
+                science techniques, ensuring that my projects are scalable, maintainable, and effective in solving real business 
+                challenges. I am always eager to expand my knowledge and apply it to new and diverse projects. Additionally,
+                I have gained valuable experience as an intern at CodeArson, where I have honed my problem-solving and
+                development skills. 
                 </ParaText>
 
             </motion.div>

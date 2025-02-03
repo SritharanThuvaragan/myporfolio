@@ -58,13 +58,14 @@ const Showcase = () => {
                     </Heading>
 
                     <Heading as="h3" size="h3"> 
-                        I'm a <BlueText>Frontend Developer</BlueText>
+                        I'm a <BlueText>Intern </BlueText>
                     </Heading>
 
                     <ParaText as="p" top="2rem" bottom= "4rem">
-                        Hello, My name is Thuvaragan Sritharan and I'm a Frontend Developer.
-                        i finsh my course just now . i searching for a internship right now. i gave 
-                        basic programming languages knloedge and better tecnhocal skills too
+                        Hello, My name is Thuvaragan Sritharan I am a software engineering student with expertise in programming 
+                        languages like Java, C#, and Python, along with web development skills in HTML, CSS, and JavaScript. 
+                        I am passionate about applying technology to solve real-world problems, with experience in data analysis,
+                         UI/UX design, and developing practical software solutions.
                     </ParaText>
 
                     {/*--social-icons-- */}
